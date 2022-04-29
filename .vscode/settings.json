@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sql": "oraclesql",
+        "cstdlib": "c",
+        "xlocinfo": "c"
+    }
+}
